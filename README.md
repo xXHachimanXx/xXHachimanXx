@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Felipe Andrade
 
-- 🔭 I’m currently working on Prodemge
+- 🔭 I’m currently working on Opus Software as Software Development Engineer
 - 🌱 I’m currently learning Full Cycle Development
 - 👯 I’m looking to collaborate on Spring projects
 - 🤔 I’m looking for help with Kubernetes and Istio
