@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Felipe Andrade
 
 - 🔭 I’m currently working on Opus Software as Software Development Engineer
-- 🌱 I’m currently learning Algorithms
+- 🌱 I’m currently learning Clean Architecture and DDD
 - 👯 I’m looking to collaborate on Spring projects
 - 🤔 I’m looking for help with Dynamic Programming and Graphs
 - 📫 How to reach me: Call me on my [Linkedin](https://www.linkedin.com/in/felipe-andrade-a34092195/)
