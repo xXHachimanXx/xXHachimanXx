@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Felipe Andrade
 
-- 🔭 I’m currently working on Opus Software as Software Development Engineer
-- 🌱 I’m currently learning Clean Architecture and DDD
-- 👯 I’m looking to collaborate on Spring projects
-- 🤔 I’m looking for help with Dynamic Programming and Graphs
+- 🔭 I’m currently working on Zup Innovation as Software Development Engineer
+- 🌱 I’m currently learning Cloud Computing, AI and Clean Architecture
+- 👯 I’m looking to collaborate on Spring and Python projects
+- 🤔 I’m looking for help with Amazon Neptune and Stackspot
 - 📫 How to reach me: Call me on my [Linkedin](https://www.linkedin.com/in/felipe-andrade-a34092195/)
 - ⚡ Fun fact: I make a great barbecue 🍖
 
