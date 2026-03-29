@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Zup Innovation as Senior Software Development Engineer
 - 👯 I’m looking to collaborate on Spring and Python projects
 - 🤔 I’m looking for help with Amazon Neptune and Stackspot
-- 📫 How to reach me: Call me on my [Linkedin](https://www.linkedin.com/in/felipe-andrade-a34092195/)
+- 📫 How to reach me: Call me on my [Linkedin](https://www.linkedin.com/in/felipeandrade-swe/)
 
 ##
  
